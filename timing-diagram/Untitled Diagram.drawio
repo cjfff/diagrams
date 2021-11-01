@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T02:40:31.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="bS1mbnLCsl9d5K0eCWJQ" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T02:41:40.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="KNacMXxniFvIQv3HSHC-" version="15.6.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="77e6c97f196da883-9" value="授权页面" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-9" value="商店列表页面" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-9" value="商店列表页面" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="77e6c97f196da883-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-1" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77e6c97f196da883-26">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-1" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="77e6c97f196da883-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1143" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
         <mxCell id="77e6c97f196da883-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="77e6c97f196da883-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-8" value="发送 code&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77e6c97f196da883-28">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-8" value="发送 code&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="77e6c97f196da883-28" vertex="1" connectable="0">
           <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -41,13 +41,13 @@
         <mxCell id="77e6c97f196da883-11" value="授权页面" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-3" value="授权" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-3" value="授权" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="40" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="wUoxEW48OfKBoV-nEhmO-3">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="wUoxEW48OfKBoV-nEhmO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-7" value="用户确认授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-7" value="用户确认授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="-20" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="Server" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -56,13 +56,13 @@
         <mxCell id="77e6c97f196da883-12" value="存储 code" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="40" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-5" value="&amp;nbsp;redirect &lt;br&gt;并把授权 code 带在 url 参数中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="wUoxEW48OfKBoV-nEhmO-3" target="77e6c97f196da883-9">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-5" value="&amp;nbsp;redirect &lt;br&gt;并把授权 code 带在 url 参数中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="wUoxEW48OfKBoV-nEhmO-3" target="77e6c97f196da883-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-12" target="wUoxEW48OfKBoV-nEhmO-9">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-12" target="wUoxEW48OfKBoV-nEhmO-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUoxEW48OfKBoV-nEhmO-14" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wUoxEW48OfKBoV-nEhmO-13">
+        <mxCell id="wUoxEW48OfKBoV-nEhmO-14" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wUoxEW48OfKBoV-nEhmO-13" vertex="1" connectable="0">
           <mxGeometry x="0.2659" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
